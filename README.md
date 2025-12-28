@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 # 💫 About Me:
-I am a junior backend developer, and currently I mainly work with Django and Spring Boot.
+I am a junior backend developer, and currently I mainly work with Django and Spring Boot. Currently developing EkstraklasaHUB
 
 
 ## 🌐 Socials:
